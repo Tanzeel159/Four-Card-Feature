@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-css-RN6jhWk9q)
-- Live Site URL: [Add live site URL here](https://tanzeel159.github.io/Four-Card-Feature/)
+- Solution URL: [Front-End Mentor](https://www.frontendmentor.io/solutions/html-css-RN6jhWk9q)
+- Live Site URL: [Github Pages](https://tanzeel159.github.io/Four-Card-Feature/)
 
 ## My process
 
