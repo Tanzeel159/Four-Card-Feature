@@ -21,8 +21,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![desktop](https://user-images.githubusercontent.com/20295349/135324874-519b780a-3fa1-447a-b41d-06b0525adab1.jpg)
+![mobile](https://user-images.githubusercontent.com/20295349/135324896-0a00ad54-25a7-45bf-a0ec-c527ae1fe6a6.jpg)
 
 ### Links
 
